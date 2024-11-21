@@ -16,3 +16,5 @@ OR Implied capacity
 
 **ArrayList** : Resizable array, Dynamically either expand or contract size automatically
 * only can hold object/Reference type data
+* easy adding, easy resizing, easy removing 
+ 
